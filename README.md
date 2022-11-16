@@ -9,7 +9,7 @@ Git e Github
             * entra na pasta que deseja colocar o repositorio
             clica com botão direito abrir Git bash 
             vai abrir um pront de comando do Git
-            Ex: $ git clone https://github.com/Jeffersoncs91/projeto-escolar-web.git
+            Ex: $ https://github.com/Jeffersoncs91/primeiro_repositorio.git
     3 VScode 
         * Terminal do VCcode
 
